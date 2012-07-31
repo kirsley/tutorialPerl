@@ -1,0 +1,11 @@
+#!/usr/bin/awk -f
+BEGIN {
+	print " indica un numero";
+}
+{
+	print "El quadrat de ", $1, " es " ,$1*$1;
+	exit;
+}
+END{
+	print "Fi!"
+}

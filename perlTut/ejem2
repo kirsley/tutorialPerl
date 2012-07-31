@@ -1,0 +1,4 @@
+#!/bin/sh
+column=$1
+awk '{print $'$column'}'
+#awk '{print $'${1:-1}'}'
