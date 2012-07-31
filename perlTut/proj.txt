@@ -1,0 +1,16 @@
+KanjiPractice:
+
+Idea 
+  	--> Almacenar los Kanji con su lectura y significado
+		--> Mostrar listado Kanji introducidos 
+			--> Todos (ordenados por nivel)
+			--> Segun Nivel
+	--> Minijuego de lectura:
+		--> Kanji vs X lecturas -- selecc correcta
+		--> Indica lecturas (todas) 
+		--> Kanji vs Significados
+
+Estructura-Ejemplo Almacenamiento:
+
+nivel -- Significado -- Kanji -- Lectura[] -- Lectura[] -- Lectura[] -- Lectura[] -- Lectura[]
+10		  Ahora         (今)			ima			kon			kin			kyou
